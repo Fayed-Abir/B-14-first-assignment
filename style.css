@@ -109,7 +109,14 @@
   border-top-right-radius: 12px;
 }
 
+#meet-section{
+  margin: 80px 169px 115px 115px;
+}
+
 /* Secure your spot Section */
+#secure-section{
+  margin: 0% 195px;
+}
 #spot-container {
   display: flex;
   flex-direction: column;
@@ -132,4 +139,25 @@
   border-radius: 12px;
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.15);
   gap: 2px;
+  padding: 32px;
+}
+
+/* .upper-part-card{
+ margin: 0px;
+ padding: 0px;
+} */
+
+.card ul li {
+  padding: 2px;
+}
+
+.person{
+  margin-bottom: 20px;
+}
+.category .person{
+  font-size: 13px;
+}
+
+.price{
+  font-size: 44px;
 }
