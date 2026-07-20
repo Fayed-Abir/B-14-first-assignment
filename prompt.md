@@ -1,0 +1,2 @@
+Suppose you are an expert web developer.
+Now, create a "Why Join DevCon?" section using only HTML and CSS. Add a heading, a short paragraph, and four attractive cards with icons, titles, and descriptions. Make one card different with a blue gradient background. Add hover effects, rounded corners, and a "Reserve Your Seat" button below the cards. Keep the design clean, modern, responsive, and matching the rest of the conference website.
