@@ -13,7 +13,6 @@
   align-items: center;
   list-style-type: none;
   gap: 20px;
-  
 }
 
 .nav-portals li a {
@@ -198,6 +197,10 @@
   padding: 2px;
 }
 
+.card ul li::marker {
+  color: #2563eb;
+}
+
 .person {
   margin-bottom: 20px;
 }
@@ -213,6 +216,11 @@
   align-items: center;
   border-radius: 8px;
   justify-content: center;
+}
+
+#Get-standard-button {
+  border: 1px solid #2563eb;
+  color: #2563eb;
 }
 
 .category .price .person {
